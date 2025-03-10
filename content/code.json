@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".top-bar {\n    background: #254f10;\n}\n.header {\n    background: #254f10;\n}\n.header__category {\n    color: #ffffff;\n}\n.header__buttons .btn{\n    color: #ffffff;\n}\n.top-bar__nav {\n    color: #fff;\n}\n.header__logo {\n    max-height: 100px;\n    max-width: 182px;\n}",
   "html_head": "",
   "html_body": ""
 }
