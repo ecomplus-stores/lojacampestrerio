@@ -1,15 +1,15 @@
 {
   "shipping": {
-    "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "show": false,
+    "text": ""
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "12 X sem juros"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Até 7 dias para troca ou devolução"
   },
   "promo": {
     "show": true,
