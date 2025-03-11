@@ -1,11 +1,12 @@
 {
   "shipping": {
-    "show": false,
-    "text": ""
+    "show": true,
+    "text": "",
+    "title": "Entregamos e Montamos"
   },
   "installments": {
     "show": true,
-    "text": "12 X sem juros"
+    "text": "12 X sem juros no cartão"
   },
   "exchange": {
     "show": true,
@@ -13,6 +14,6 @@
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "8% à vista em todo site"
   }
 }
