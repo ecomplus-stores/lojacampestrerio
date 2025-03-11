@@ -20,18 +20,26 @@
       "enabled": true
     },
     {
-      "type": "shelfs-nav",
-      "shuffle": true,
-      "limit": 10,
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
       "page": 1,
-      "collection_ids": [
-        "622bf5fd8bd0103c54efa770:categories:SINUCA:/sinuca/",
-        "622bf60a8bd0103c54efa79b:categories:FUTMESA:/futmesa/",
-        "622bf5fe8bd0103c54efa774:categories:TOTÓ:/toto/",
-        "622bf5ff8bd0103c54efa776:categories:PING-PONG:/ping-pong/"
-      ],
-      "autoplay": 0,
+      "collection_id": "622bf5fd8bd0103c54efa770:categories:SINUCA:/sinuca/",
       "sort": "sales"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "622bf60a8bd0103c54efa79b:categories:FUTMESA:/futmesa/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views"
     }
   ]
 }
