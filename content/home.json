@@ -20,23 +20,6 @@
       "enabled": true
     },
     {
-      "autoplay": 1000,
-      "page": 1,
-      "title": "",
-      "shuffle": true,
-      "headless": false,
-      "type": "collection-shelf",
-      "limit": 12,
-      "collection_id": "622bf5fd8bd0103c54efa770:categories:SINUCA:/sinuca/",
-      "sort": "offers"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1
-    },
-    {
       "type": "shelfs-nav",
       "shuffle": false,
       "limit": 10,
