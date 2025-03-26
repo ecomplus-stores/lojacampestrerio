@@ -40,7 +40,20 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views"
+      "sort": "views",
+      "collection_id": "622bf5fe8bd0103c54efa774:categories:TOTÓ:/toto/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ]
 }
