@@ -12,11 +12,6 @@
           "end": "",
           "img": "/img/uploads/banner-novo.jpg",
           "link": "https://api.whatsapp.com/send?phone=552121996841455"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-aniversario.jpg"
         }
       ]
     },
