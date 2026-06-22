@@ -4,13 +4,13 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 8000,
       "full_width": false,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-novo.jpg",
+          "img": "/img/uploads/copa-banner.jpg",
           "link": "https://api.whatsapp.com/send?phone=552121996841455"
         }
       ]
