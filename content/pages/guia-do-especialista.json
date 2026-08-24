@@ -2,5 +2,11 @@
   "title": "GUIA DO ESPECIALISTA",
   "meta_title": "Guia do Especialista em Mesas de Jogos | Campestrerio",
   "meta_description": "Dicas de decoração e escolha de mesas para sua área de lazer. Entenda tudo sobre sinucas, totó, ping-pong, carteado e futmesas e nossa linha oficial de times. Confira o guia!",
-  "body": "Com mais de 40 anos de tradição na fabricação de jogos de salão, criamos este espaço para ajudar você a projetar a área de lazer perfeita para a sua casa ou negócio. Aqui, compartilhamos dicas diretas da nossa fábrica: desde guias práticos de medidas para escolher a sua mesa ideal, até inspirações de decoração e temática.\n\nNavegue pelos nossos artigos abaixo, tire suas dúvidas com quem é especialista no assunto e prepare-se para elevar o nível do seu próximo churrasco!"
+  "body": "Com mais de 40 anos de tradição na fabricação de jogos de salão, criamos este espaço para ajudar você a projetar a área de lazer perfeita para a sua casa ou negócio. Aqui, compartilhamos dicas diretas da nossa fábrica: desde guias práticos de medidas para escolher a sua mesa ideal, até inspirações de decoração e temática.\n\nNavegue pelos nossos artigos abaixo, tire suas dúvidas com quem é especialista no assunto e prepare-se para elevar o nível do seu próximo churrasco!",
+  "sections": [
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ]
 }
