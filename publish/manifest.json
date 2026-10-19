@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.29dee1a40cd3a13a8d8afc5a0a0156a7.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.050115ab76d676493cff1d6dad533925.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.7d156aa54b27dd782399af5d941a697d.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.03787ea9f4d67685b2cb7ea2d434b3af.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.449bbbc12b5e16f5f253129574e054c8.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": " Campestrerio",
+  "short_name": "Campestrerio",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Fabricante de Jogos de salão, com mais de 30 anos no mercado, fabricamos Sinuca, totó, ping-pong, carteado, Aero Hockey, Tamancoball. Tel. 21 99684-1455",
+  "background_color": "#ffffff",
+  "theme_color": "#254f10"
+}
