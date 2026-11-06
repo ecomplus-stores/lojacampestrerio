@@ -1,7 +1,7 @@
 {
   "domain": "campestrerio.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#254f10",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/logo-removebg-preview.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#5db676",
+  "secondary_color": "#4c554c",
   "icon": "/img/uploads/logo-removebg-preview.png",
   "store_id": 43105,
   "description": "Fabricante de Jogos de salão, com mais de 30 anos no mercado, fabricamos Sinuca, totó, ping-pong, carteado, Aero Hockey, Tamancoball. Tel. 21 99684-1455",
